@@ -1,0 +1,35 @@
+{
+  "name": "abhiomkar2018",
+  "version": "1.0.0",
+  "description": "Abhinay Omkar website (2018)",
+  "author": "Abhinay Omkar <abhiomkar@gmail.com>",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "precommit": "npm run lint"
+  },
+  "dependencies": {
+    "@nuxtjs/markdownit": "^1.2.0",
+    "axios": "^0.17.1",
+    "node-sass": "^4.7.2",
+    "nuxt": "^1.0.0-rc11",
+    "sass-loader": "^6.0.6",
+    "vue-style-loader": "^3.0.3"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^4.12.1",
+    "eslint-config-google": "^0.9.1",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-loader": "^1.9.0",
+    "eslint-plugin-html": "^3.1.1",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-node": "^5.1.1",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}
