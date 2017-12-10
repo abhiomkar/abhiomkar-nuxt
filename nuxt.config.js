@@ -14,8 +14,12 @@ module.exports = {
     ]
   },
   modules: [
-    '@nuxtjs/markdownit'
+    '@nuxtjs/markdownit',
+    '@nuxtjs/google-analytics'
   ],
+  'google-analytics': {
+    id: 'UA-7271166-2'
+  },
   /*
   ** Customize the progress bar color
   */

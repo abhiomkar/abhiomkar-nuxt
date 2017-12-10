@@ -29,11 +29,6 @@
       "NODE_ENV": "production"
     }
   },
-  "modules": [
-    ["@nuxtjs/google-analytics", {
-      "id": "UA-7271166-2"
-    }]
-  ], 
   "devDependencies": {
     "babel-eslint": "^7.2.3",
     "eslint": "^4.13.0",

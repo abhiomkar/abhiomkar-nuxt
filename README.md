@@ -19,7 +19,7 @@ $ npm start
 $ npm run generate
 
 # deploy
-$ now
+$ npm run-script deploy
 $ now alias https://abhiomkar-in-xxxx.now.sh abhiomkar-in
 ```
 
