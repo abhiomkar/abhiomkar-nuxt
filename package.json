@@ -20,6 +20,13 @@
     "sass-loader": "^6.0.6",
     "vue-style-loader": "^3.0.3"
   },
+  "now": {
+    "name": "abhiomkar-in",
+    "alias": "abhiomkar-in",
+    "env": {
+      "NODE_ENV": "production"
+    }
+  },
   "devDependencies": {
     "babel-eslint": "^7.2.3",
     "eslint": "^4.12.1",
