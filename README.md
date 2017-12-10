@@ -17,6 +17,10 @@ $ npm start
 
 # generate static project
 $ npm run generate
+
+# deploy
+$ now
+$ now alias https://abhiomkar-in-xxxx.now.sh abhiomkar-in
 ```
 
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
