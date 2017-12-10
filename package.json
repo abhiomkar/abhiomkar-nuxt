@@ -16,7 +16,7 @@
     "@nuxtjs/markdownit": "^1.2.0",
     "axios": "^0.17.1",
     "node-sass": "^4.7.2",
-    "nuxt": "^1.0.0-rc11",
+    "nuxt": "latest",
     "sass-loader": "^6.0.6",
     "vue-style-loader": "^3.0.3"
   },

@@ -50,7 +50,7 @@ Website was designed in Sketch & built with Vanilla Javascript, Flask, Webpack, 
 @import '../assets/css/color.scss';
 @import '../assets/css/variable.scss';
 
-.container {
+section {
   font-size: 16px;
   color: $blackAlpha84;
   padding-bottom: 15px;

@@ -97,6 +97,7 @@ export default {
   justify-content: flex-end;
   align-items: center;
   text-decoration: none;
+  margin-right: 12px;
 }
 
 .view-all-link:hover {
