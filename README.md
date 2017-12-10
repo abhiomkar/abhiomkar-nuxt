@@ -18,6 +18,9 @@ $ npm start
 # generate static project
 $ npm run generate
 
+# config
+$ firebase functions:config:set mailgun.api_key="key-xxxx"
+
 # deploy
 $ npm run-script deploy
 $ now alias https://abhiomkar-in-xxxx.now.sh abhiomkar-in
