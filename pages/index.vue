@@ -9,6 +9,7 @@
 <style lang="scss" scoped>
 .container {
   padding: 20px 12px;
-  font-weight: 300;
+  font-weight: 400;
+  color: rgba(0, 0, 0, .54);
 }
 </style>

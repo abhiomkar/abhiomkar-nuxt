@@ -43,7 +43,7 @@ I love to read books. Here are few of my favorite books.
 Website
 -------
 
-Website was designed in Sketch & built with Vanilla Javascript, Flask, Webpack, Gulp, Markdown hosted on Google App Engine.
+Website was built on [Nuxt.js](https://nuxtjs.org) and hosted on [now](https://zeit.co/now).
 </template>
 
 <style lang="scss" scoped>
