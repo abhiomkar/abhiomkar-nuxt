@@ -9,7 +9,7 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
-    "deploy": "now",
+    "deploy": "now && now alias",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
     "precommit": "npm run lint"
   },
@@ -24,7 +24,7 @@
   },
   "now": {
     "name": "abhiomkar-in",
-    "alias": "abhiomkar-in",
+    "alias": "abhiomkar.in",
     "env": {
       "NODE_ENV": "production"
     }
